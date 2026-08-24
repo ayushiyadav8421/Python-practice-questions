@@ -18,5 +18,3 @@ A collection of Python programs and practice exercises focused on building stron
 ## 🎯 Goal
 
 To strengthen Python fundamentals through regular practice and hands-on coding.
-
-⭐ Feel free to explore the programs and follow along with my learning journey!
